@@ -1,0 +1,4 @@
+cats
+dogs
+foxes
+elephants
